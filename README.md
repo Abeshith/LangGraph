@@ -93,25 +93,11 @@ By working through this repository, you'll learn:
 4. Build reasoning agent
 5. Implement answer synthesis
 
-## 🤝 Contributing
-
-This is a learning repository. Feel free to:
-- Add your own examples
-- Improve existing notebooks
-- Share interesting use cases
-- Report issues or suggestions
-
 ## 📚 Additional Resources
 
 - [LangGraph Documentation](https://langchain-ai.github.io/langgraph/)
 - [LangChain Documentation](https://python.langchain.com/)
 - [LangSmith for Debugging](https://smith.langchain.com/)
 
-## ⚠️ Note
-
-This repository is for educational purposes. Make sure to:
-- Keep your API keys secure
-- Review costs before running experiments
-- Test in development before production use
 
 Happy learning! 🎉
