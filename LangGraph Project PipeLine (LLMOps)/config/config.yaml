@@ -1,0 +1,10 @@
+llm: 
+  groq:
+    provider: "groq"
+    model_name: "gemma2-9b-it"
+  gemini:
+    provider: "google"
+    model_name: "gemini-1.5-flash"
+  openrouter:
+    provider: "openrouter"
+    model_name: "deepseek/deepseek-chat-v3-0324:free"
